@@ -1,0 +1,14 @@
+{
+  "name": "videommerce-ads",
+  "version": "1.0.0",
+  "description": "videommerce ads",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geofrey",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-nodejs-business-sdk": "^3.2.4"
+  }
+}
